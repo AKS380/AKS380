@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AKS380
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on projects related to web dev 
-- 📫 How to reach me ...
+- 👋 Hi, I’m AKSHITA BHASIN 
+- 👀 I’m interested in c++, HTML , CSS, JAVASCRIPT , TRANSCRIPT, GITHUB , GIT.
+- 🌱 I’m currently learning VJTI.
+- 💞️ I’m looking to collaborate on projects related to web dev .
+- 📫 How to reach me akshitabhasin03@gmail.com .
 
 <!---
 AKS380/AKS380 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
