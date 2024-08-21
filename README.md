@@ -1,4 +1,4 @@
-![logo](https://github.com/AKS380/AKS380/blob/main/Black%20Cream%20Minimalist%20Monogram%20Initial%20Logo.png)
+![logo](https://github.com/AKS380/AKS380/blob/main/Orange%20Gradient%20Sunset%20Desktop%20Wallpaper.png?raw=true)
 <h1 align="center">Hi 👋, I'm Akshita Bhasin</h1>
 <h3 align="center">A passionate and ambitious developer with a deep-seated enthusiasm📈 for Web Dev, App Dev, and the fascinating world of ML/AI 💻.</h3>
 
