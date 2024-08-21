@@ -1,3 +1,4 @@
+![logo](https://github.com/AKS380/AKS380/blob/main/Black%20Cream%20Minimalist%20Monogram%20Initial%20Logo.png)
 <h1 align="center">Hi 👋, I'm Akshita Bhasin</h1>
 <h3 align="center">A passionate and ambitious developer with a deep-seated enthusiasm📈 for Web Dev, App Dev, and the fascinating world of ML/AI 💻.</h3>
 
